@@ -1,31 +1,25 @@
-#  Daily Task Manager
+#  Daily Task Manager (To-Do App)
 
-A simple and elegant to-do list web app made using **HTML, CSS, and JavaScript**.
+A simple, clean, and responsive **To-Do List App** built using **HTML, CSS, and JavaScript**, with persistent data storage using **localStorage**.
 
-##  Features
+##  Live Demo
+🔗 [View App on GitHub Pages](https://kxartik24.github.io/Daily-Task-Manager-To-Do-App-with-Local-Storage-/)
+
+## 📸 Screenshots
+![Screenshot](https://via.placeholder.com/800x400.png?text=Daily+Task+Manager+App)
+
+## Features
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
-- Auto-save using localStorage
+- Automatically saves data using browser localStorage
+- Responsive and mobile-friendly UI
 
-## 📸 Screenshot
-![screenshot](https://dummyimage.com/600x400/cccccc/000000&text=ToDo+App)
-
-## How to Run
-1. Download or clone this repo
-2. Open `index.html` in any browser
-3. Start managing your tasks!
-
-##  Live Demo
-https://kxartik24.github.io/Daily-Task-Manager-To-Do-App-with-Local-Storage-/
+##  Tech Stack
+- HTML5
+- CSS3 (vanilla)
+- JavaScript (ES6)
+- Browser localStorage API
 
 
-
----
-
-###  Tech Stack
-- HTML
-- CSS
-- JavaScript (Vanilla)
-- Browser localStorage
 
